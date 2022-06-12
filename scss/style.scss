@@ -136,6 +136,7 @@
     }
 
     .links {
+      list-style: none;
       margin-right: auto;
       @include flex-display(row, center, center);
     }
