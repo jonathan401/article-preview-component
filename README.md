@@ -39,4 +39,4 @@ This project test my positioning skills a great deal. I had to figure out a way 
 
 ### Deployment
 
-The project was deployed using vercel. Check out the live site [here]()
+The project was deployed using [vercel](https://vercel.com/dashboard). You could Check out the live site of the project [here](https://article-preview-component-bay-nine.vercel.app/)
